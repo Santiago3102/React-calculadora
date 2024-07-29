@@ -1,3 +1,20 @@
+# Simple Calculator
+
+## Description
+
+This project is a basic React application that implements a simple calculator. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The project serves as an introduction to React and demonstrates fundamental concepts in state management and user interface design.
+
+## Features
+
+- **Basic Arithmetic Operations**: Supports addition, subtraction, multiplication, and division.
+- **Clear Function**: Allows users to reset the calculator.
+- **Responsive Design**: Simple and intuitive interface for ease of use.
+
+## Screenshot
+
+![Calculator Screenshot](https://github.com/Santiago3102/React-calculadora/blob/master/Captura%20de%20pantalla%202024-07-29%20041355.png?raw=true)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
